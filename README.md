@@ -1,0 +1,2 @@
+# JagaTrader
+helper for exchanges
